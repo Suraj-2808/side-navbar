@@ -8,4 +8,4 @@ The Side Navbar is built using the following technologies:
 
 HTML
 CSS
-JavaScrip
+JavaScript
